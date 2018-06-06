@@ -2,7 +2,7 @@ from distutils.core import setup
 from setuptools import find_packages
 
 setup(name='notifyexceptions',
-      version='1.0',
+      version='1.1',
       description=('Get exception on ADMINS mail IDs'),
       author='Shashank Shukla',
       author_email='shuklashashank@outlook.com',
